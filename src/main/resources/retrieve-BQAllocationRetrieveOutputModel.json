@@ -1,0 +1,31 @@
+{
+  "allocationRetrieveActionTaskReference" : "CPDARATR740670",
+  "cardPOSDeviceAllocationInstanceRecord" : {
+    "cardPOSDeviceSoftwareType" : "cardPOSDeviceSoftwareType",
+    "cardPOSDeviceIdentifier" : "cardPOSDeviceIdentifier",
+    "cardPOSDeviceSoftwareVersion" : "cardPOSDeviceSoftwareVersion",
+    "cardPOSDeviceStatus" : "cardPOSDeviceStatus",
+    "cardPOSDeviceReference" : "738169",
+    "cardPOSDeviceType" : "cardPOSDeviceType"
+  },
+  "allocationRetrieveActionTaskRecord" : {},
+  "allocationRetrieveActionResponse" : "allocationRetrieveActionResponse",
+  "allocationInstanceReport" : {
+    "allocationInstanceReportType" : "allocationInstanceReportType",
+    "allocationInstanceReport" : {},
+    "allocationInstanceReportParameters" : "allocationInstanceReportParameters",
+    "allocationInstanceReportRecord" : {}
+  },
+  "allocationInstanceRecord" : {
+    "cardPOSDeviceConfiguration" : "cardPOSDeviceConfiguration",
+    "merchantLocation" : "merchantLocation",
+    "merchantReference" : "704692",
+    "merchantType" : "merchantType"
+  },
+  "allocationInstanceAnalysis" : {
+    "allocationInstanceAnalysisReportType" : "allocationInstanceAnalysisReportType",
+    "allocationInstanceAnalysisReport" : {},
+    "allocationInstanceAnalysisParameters" : "allocationInstanceAnalysisParameters",
+    "allocationInstanceAnalysisRecord" : {}
+  }
+}

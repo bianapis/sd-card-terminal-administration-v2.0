@@ -1,0 +1,18 @@
+{
+  "cardPOSDeviceAllocationInstanceRecord" : {
+    "cardPOSDeviceSoftwareType" : "cardPOSDeviceSoftwareType",
+    "cardPOSDeviceAcquiredDate" : "09-22-2018",
+    "cardPOSDeviceIdentifier" : "cardPOSDeviceIdentifier",
+    "cardPOSDeviceSoftwareVersion" : "cardPOSDeviceSoftwareVersion",
+    "cardPOSDeviceStatus" : "cardPOSDeviceStatus",
+    "cardPOSRepairRecord" : {
+      "cardPOSRepairDetails" : "cardPOSRepairDetails",
+      "cardPOSRepairDates" : "cardPOSRepairDates"
+    },
+    "cardPOSDeviceReference" : "792660",
+    "cardPOSDeviceType" : "cardPOSDeviceType"
+  },
+  "cardPOSDeviceAllocationUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "cardPOSDeviceAllocationUpdateActionTaskReference" : "CPDAUATR743723"
+}

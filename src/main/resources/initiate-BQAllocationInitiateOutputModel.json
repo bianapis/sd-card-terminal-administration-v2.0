@@ -1,0 +1,9 @@
+{
+  "cardPOSDeviceAllocationInstanceRecord" : {
+    "cardPOSDeviceStatus" : "cardPOSDeviceStatus"
+  },
+  "allocationInitiateActionRecord" : {},
+  "allocationInstanceStatus" : "allocationInstanceStatus",
+  "allocationInstanceReference" : "CPDAIR705801",
+  "allocationInitiateActionReference" : "CPDAIAR788812"
+}

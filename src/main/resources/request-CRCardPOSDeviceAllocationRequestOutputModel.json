@@ -1,0 +1,13 @@
+{
+  "cardPOSDeviceAllocationInstanceRecord" : {
+    "cardPOSDeviceStatus" : "cardPOSDeviceStatus",
+    "cardPOSRepairRecord" : {
+      "cardPOSRepairDetails" : "cardPOSRepairDetails",
+      "cardPOSRepairDates" : "cardPOSRepairDates"
+    }
+  },
+  "cardPOSDeviceAllocationRequestActionTaskReference" : "CPDARATR783117",
+  "cardPOSDeviceAllocationRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR771498",
+  "requestResponseRecord" : {}
+}

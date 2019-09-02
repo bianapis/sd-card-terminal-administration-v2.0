@@ -1,0 +1,1 @@
+# Card Terminal Administration Service Domain v2.0

@@ -1,0 +1,11 @@
+{
+  "allocationUpdateActionTaskRecord" : {},
+  "allocationUpdateActionTaskReference" : "CPDAUATR701095",
+  "updateResponseRecord" : {},
+  "allocationInstanceRecord" : {
+    "cardPOSDeviceConfiguration" : "cardPOSDeviceConfiguration",
+    "merchantLocation" : "merchantLocation",
+    "merchantReference" : "760412",
+    "merchantType" : "merchantType"
+  }
+}

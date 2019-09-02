@@ -1,0 +1,9 @@
+{
+  "allocationCaptureActionTaskRecord" : {},
+  "cardPOSDeviceAllocationInstanceRecord" : {
+    "cardPOSDeviceStatus" : "cardPOSDeviceStatus"
+  },
+  "allocationCaptureActionTaskReference" : "ACATR782912",
+  "allocationCaptureRecordReference" : "ACRR720565",
+  "captureResponseRecord" : {}
+}
